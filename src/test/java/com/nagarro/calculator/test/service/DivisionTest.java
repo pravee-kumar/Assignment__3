@@ -16,9 +16,9 @@ public class DivisionTest {
 	@Test
 	public void testdivOfNumbers() {
 		divService ds= new divService();
-		int a=6;
+		int a=14;
 		int b=7;
 		int r= ds.div(a,b);
-		assertEquals(1,r);
+		assertEquals(2,r);
 	}
 }
