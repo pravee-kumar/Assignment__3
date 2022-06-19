@@ -19,6 +19,6 @@ public class DivisionTest {
 		int a=6;
 		int b=7;
 		int r= ds.div(a,b);
-		assertEquals(2,r);
+		assertEquals(1,r);
 	}
 }

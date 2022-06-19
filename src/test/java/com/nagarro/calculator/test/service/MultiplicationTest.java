@@ -21,6 +21,6 @@ public class MultiplicationTest {
 		int a=6;
 		int b=7;
 		int r= ml.mul(a,b);
-		assertEquals(43,r);
+		assertEquals(42,r);
 	}
 }

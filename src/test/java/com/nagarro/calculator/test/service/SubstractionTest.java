@@ -19,6 +19,6 @@ public class SubstractionTest {
 		int a=6;
 		int b=7;
 		int r= sb.sub(a,b);
-		assertEquals(1,r);
+		assertEquals(-1,r);
 	}
 }

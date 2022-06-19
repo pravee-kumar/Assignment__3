@@ -11,7 +11,7 @@ public class AdditionTest {
 		int a=6;
 		int b=7;
 		int r= asr.add(a,b);
-		assertEquals(12,r);
+		assertEquals(13,r);
 	}
 	@Test
 	public void testAddOfNumbers() {
