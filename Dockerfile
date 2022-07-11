@@ -1,4 +1,4 @@
-From tomcat:8-jre
+From tomcat:latest
 
 MAINTAINER "praveenkumar"
 
